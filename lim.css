@@ -1,0 +1,96 @@
+
+
+body{
+  background-image: url(/Users/alessandrofranco/Desktop/MaterialeEsercizioLim/background.jpg);
+  background-size: 100%;
+}
+*{
+  box-sizing: border-box;
+}
+
+.contenitore{
+  width: 1000px;
+  height: 750px;
+  margin: auto;
+  background-color: rgba(25, 32, 32, 0.58);
+  border-radius: 25px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 78px;
+}
+
+
+.logo {
+  width: 200px;
+  height: 100px;
+  margin-inline-start: 300px;
+  display: block;
+  /* riduci dimensioni del logo; */
+}
+
+
+.title {
+  color: rgb(90, 255, 0);
+  font-size: 20px;
+  font-family: monaco, monospace;
+  padding-left: 250px;
+
+}
+
+nav {
+  background-color: rgb(90, 255, 0);
+  text-align: center;
+  height: 40px;
+  margin-top: auto;
+  display: block;
+}
+
+button {
+  position: relative;
+  top: 7px;
+  border-color: black;
+  background-color: white;
+}
+
+
+main {
+  font-size: 15px;
+  font-family: monaco, monospace;
+  color: white;
+}
+
+.Gino {
+  margin-top: 10px;
+  padding-top: 20px;
+}
+
+.barragino {
+  background-color: rgb(247, 181, 58);
+  width: 350px;
+  height: 20px;
+  border-radius: 2px;
+}
+
+.Mike{
+  margin-top: 10px;
+  padding-top: 20px;
+}
+
+.barramike{
+  background-color: rgb(106, 186, 62);
+  width: 600px;
+  height: 20px;
+  border-radius: 2px;
+}
+
+
+.Fede{
+  margin-top: 10px;
+  padding-top: 20px;
+}
+.barrafede {
+  background-color: rgb(173, 49, 49);
+  width: 150px;
+  height: 20px;
+  border-radius: 2px;
+}
